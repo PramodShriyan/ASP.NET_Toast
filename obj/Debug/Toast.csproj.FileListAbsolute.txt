@@ -1,0 +1,6 @@
+D:\VS2015\Toast\Toast\bin\Toast.dll.config
+D:\VS2015\Toast\Toast\bin\Toast.dll
+D:\VS2015\Toast\Toast\bin\Toast.pdb
+D:\VS2015\Toast\Toast\obj\Debug\Toast.csprojResolveAssemblyReference.cache
+D:\VS2015\Toast\Toast\obj\Debug\Toast.dll
+D:\VS2015\Toast\Toast\obj\Debug\Toast.pdb
